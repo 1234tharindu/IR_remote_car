@@ -1,6 +1,6 @@
 # <div align="center"><b><i>IR REMOTE CONTROL CAR </i></b></div>
 
-> This is the <b><i>VIP Light</i></b> that I created using <b><i>Arduino Uno Board</i></b>.
+> This is the <b><i>IR remote control car </i></b> that I created using <b><i>Arduino Uno Board</i></b>.
 
 > This is <b><i>My Second Arduino Project</i></b>.
 
@@ -22,7 +22,7 @@
 
 ### Video Clip
 #
-https://github.com/user-attachments/assets/0a877cc5-f9a7-4e03-b1b6-adde0dfcd390
+https://github.com/user-attachments/assets/203a773a-770d-4208-8f7c-749f09254d76
 
 
 
